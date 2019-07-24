@@ -1,6 +1,6 @@
 # EPI_ghost_learning
 
-This code is a ghost correction code using deep learning. 
+This code is a EPI ghost correction code using deep learning. 
 
 ## Paper
 Juyoung Lee, Yoseob Han, Jae-Kyun Ryu, Jang-Yeon Park and Jong Chul Ye, "k-Space Deep Learning for Reference-free EPI Ghost Correction", Magnetic Resonance in Medicine (in press), 2019
