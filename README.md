@@ -17,7 +17,7 @@ Juyoung Lee, Yoseob Han, Jae-Kyun Ryu, Jang-Yeon Park and Jong Chul Ye, "k-Space
 
 ## Training
 * Main file to train is 'main_ghost_learning.m'.
- * Various learning parameter(e.g. learning rate, # of epochs) can changed on this main file.
+  * Various learning parameter(e.g. learning rate, # of epochs) can changed on this main file.
 * There are some sample data in 'db' folder for training. The number of channel of input data is 2*coil. 
 * You can change the filter size, network depth in 'cnn_ghost_init.m'
 
